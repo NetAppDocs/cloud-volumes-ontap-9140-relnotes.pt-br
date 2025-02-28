@@ -144,7 +144,7 @@ Por outro lado, se você implantou o Cloud Volumes ONTAP usando qualquer outro t
 
 . A alta velocidade de gravação é suportada em todos os tipos de instância ao usar um sistema de nó único. Você pode ativar a alta velocidade de gravação do BlueXP  durante a implantação ou a qualquer momento depois. https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-write-speed.html["Saiba mais sobre como escolher uma velocidade de escrita"^].
 . O desempenho de gravação aprimorado é habilitado ao usar SSDs.
-. Para obter suporte à região do Azure, https://cloud.netapp.com/cloud-volumes-global-regions["Regiões globais do Cloud volumes"^] consulte .
+. Para obter suporte à região do Azure, https://bluexp.netapp.com/cloud-volumes-global-regions["Regiões globais do Cloud volumes"^] consulte .
 . O Cloud Volumes ONTAP pode ser executado em uma instância de VM reservada ou sob demanda do seu provedor de nuvem. As soluções que usam outros tipos de instância de VM não são suportadas.
 . As implantações de nó único suportam apenas discos gerenciados LRS (armazenamento localmente redundante) para SSD padrão e HDD e SSD Premium.
 
